@@ -4,5 +4,5 @@
 
 
 ### Main Features ###
-![](https://raw.githubusercontent.com/dretay/stm32f103c8/master/IMG_4449.jpg)
+![](https://raw.githubusercontent.com/dretay/stm32f103c8_force_sensing/master/IMG_4449.jpg)
 - 
